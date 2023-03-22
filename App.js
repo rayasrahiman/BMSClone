@@ -1,4 +1,3 @@
-// import 'react-native-gesture-handler';
 import React, {useEffect} from 'react';
 import {StyleSheet, View, LogBox} from 'react-native';
 import {Provider} from 'react-redux';

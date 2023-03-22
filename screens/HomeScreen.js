@@ -1,15 +1,7 @@
 import React, {useEffect} from 'react';
 import {View, StyleSheet, ScrollView} from 'react-native';
-
 import {useSelector, useDispatch} from 'react-redux';
 
-import {
-  ADVERTISEMENT,
-  EVENTS,
-  LIVEEVENTS,
-  MOVIES,
-  PREMIERMOVIES,
-} from '../data/dummy-data';
 import {
   movies,
   advertisement,
