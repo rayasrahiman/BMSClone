@@ -150,14 +150,3 @@ export default function Navigation() {
     </NavigationContainer>
   );
 }
-// const Stack = createNativeStackNavigator();
-
-// export default function Navigation() {
-//   return (
-//     <NavigationContainer>
-//       <Stack.Navigator>
-//         <Stack.Screen name="Home" component={HomeScreen} />
-//       </Stack.Navigator>
-//     </NavigationContainer>
-//   );
-// }
